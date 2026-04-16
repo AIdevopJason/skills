@@ -1,4 +1,4 @@
-# skills
+# windows-pyinstaller-distribute
 Python 3.12 / 3.11 x64 作为分发构建首选，避免用过新解释器拖累兼容性
 PyInstaller 默认 onedir（exe + _internal），不用 onefile 作默认
 关闭 UPX、work/dist 放 %TEMP%，减少杀毒误报和 OneDrive 锁文件
